@@ -1,12 +1,13 @@
-### Hi 👋 I'm Aditya 😃
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"><br> I'm Aditya 😃
+   <img src="readme.gif" width="400" height="250" align="right" >
 
-- 👨🏽‍🎓 An Engineering Student
-- ✌🏽 MERN stack
-- 👨🏽‍💻 Programmer & Aspiring Software Developer
-- 📰 News Junkie
-- ⚽ Sports & anime fanatic
+<div align="left">
+  <br>
+- 👨🏽‍🎓 An Engineering Student<br>
+- ✌🏽 MERN stack | Data Structures<br>
+- 👨🏽‍💻 Programmer & Aspiring Software Developer<br>
+- 📰 News Junkie<br>
+- ⚽ Sports & anime fanatic<br>
+<div>
 
-### Reach Me 🤙🏻
-
-- LinkedIn - https://www.linkedin.com/in/aditya-nath-jha-0b47421b5/
-- Website - https://aditya-nath-jha.herokuapp.com/
+### Reach Me via [LinkedIn](https://www.linkedin.com/in/aditya-nath-jha-0b47421b5/) or visit my [Website](https://aditya-nath-jha.herokuapp.com/) 🤙🏻
