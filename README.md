@@ -1,5 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"><br> I'm Aditya 😃
-   <img src="readme.gif" width="400" height="250" align="right" >
+   <img src="readme.png" width="400" height="250" align="right" >
 
 <div align="left">
   <br>
