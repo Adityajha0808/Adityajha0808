@@ -10,7 +10,7 @@
 - ⚽ Sports fanatic<br>
 <div>
 
- #### Currently, I am into Competitive Programming. Would love to collab on some exciting projecs.
+ #### Currently, I am into Competitive Programming. Would love to collab on some exciting projects.
    
 
  
