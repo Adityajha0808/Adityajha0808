@@ -10,7 +10,7 @@
 - ⚽ Sports fanatic<br>
 <div>
 
- #### Currently, I am up for some open source work and looking to contribute on backend projects. 
+ #### Currently, I am into Competitive Programming. Would love to collab on some exciting projecs.
    
 
  
