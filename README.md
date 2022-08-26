@@ -3,9 +3,8 @@
 
 <div align="left">
   <br>
-- 👨🏽‍🎓 Engineering Graduate<br>
-- ✌🏽 MERN stack | Data Structures<br>
 - 👨🏽‍💻 Software Developer<br>
+- ✌🏽 MERN stack | Data Structures<br>
 - 📰 News Junkie<br>
 - ⚽ Sports fanatic<br>
 <div>
